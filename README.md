@@ -1,4 +1,4 @@
 # mayur
 This is my first Git Repository.
 <br>
-Author - Mayur Sonagra
+Author - Mayur Sonagra (Sonagra)
